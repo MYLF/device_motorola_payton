@@ -769,6 +769,10 @@
 		<path name="incall-music-uplink" />
 	</path>
 
+    <path name="incall_music_uplink afe-proxy">
+        <path name="incall_music_uplink" />
+    </path>
+
 	<path name="incall_music_uplink2">
 		<ctl name="Incall_Music_2 Audio Mixer MultiMedia9" value="1" />
 	</path>
