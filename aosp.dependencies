@@ -13,7 +13,7 @@
   },
   {
     "remote":      "github",
-    "repository":  "trpsl/vendor_motorola",
+    "repository":  "trpsl/android_vendor_motorola",
     "target_path": "vendor/motorola",
     "branch":      "ten"
   },
@@ -33,7 +33,7 @@
     "remote":      "github",
     "repository":  "trpsl/device_motorola_sdm660-common",
     "target_path": "device/motorola/sdm660-common",
-    "branch":      "ten-payton"
+    "branch":      "lineage-17.0"
   },
   {
     "remote":      "github",
